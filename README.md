@@ -5,7 +5,7 @@ vscode marp 中使用mermaid画图，在vscode和导出的html中正常渲染为
 在文档最后引入脚本
 
 ```html
-<script src="./render.js" async />
+<script type="module" src="https://alislin.github.io/mermaid-in-marp/render.js"></script>
 ```
 
 ## Demo
@@ -31,6 +31,6 @@ marp: true
 
 ---
 
-<script src="./render.js" async />
+<script type="module" src="https://alislin.github.io/mermaid-in-marp/render.js"></script>
 
 ```

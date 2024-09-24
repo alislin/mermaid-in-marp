@@ -1,5 +1,5 @@
 // marp中嵌入的mermaid生成的html
-import mermaid from '/mermaid/mermaid.esm.min.mjs';
+import mermaid from './mermaid/mermaid.esm.min.mjs';
 let mermaidReload = function () {
     setTimeout(function () {
         Array.from(document.querySelectorAll('code.language-mermaid')).map(function (code) {

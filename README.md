@@ -33,4 +33,7 @@ marp: true
 
 <script type="module" src="https://alislin.github.io/mermaid-in-marp/render.js"></script>
 
+<!-- 缓存版本（mermaid依赖js使用本地文件） -->
+<script type="module" src="https://alislin.github.io/mermaid-in-marp/render.cache.js"></script>
+
 ```

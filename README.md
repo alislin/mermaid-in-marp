@@ -1,6 +1,7 @@
 # Mermaid in Marp
 vscode marp 中使用mermaid画图，在vscode和导出的html中正常渲染为svg
-这个脚本可以同时在vscode和obsidian中正常使用
+
+这个脚本可以同时在 vscode 和 obsidian 中正常使用
 
 ## 使用方法
 在文档最后引入脚本
